@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pstn{
+    position: absolute;
+    top: 6rem;
+    flex-direction: column;
+    gap: 20px;
+    height: 50vh;
+}
+
+.main{
+    position: relative;
+}

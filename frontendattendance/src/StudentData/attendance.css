@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Delicious+Handrawn&family=Mynerve&family=Quicksand&family=Tilt+Prism&family=Tilt+Warp&display=swap');
+
+.attendanceCls{
+    background-color:silver ;
+    height: 100vh;
+}
+
+.selectMonth{
+    background-color:black;
+}
+
+.txtFormat{
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: 1rem;
+    font-weight: bolder;
+}

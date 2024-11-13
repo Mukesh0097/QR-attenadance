@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Delicious+Handrawn&family=Mynerve&family=Quicksand&family=Tilt+Prism&family=Tilt+Warp&display=swap');
+
+.showData{
+    padding:4rem ;
+}
+
+.MainClss{
+    background-color: silver;
+    height: 100vh;
+}
+
+#DateToday{
+    background-color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: black;
+    font-family: 'Alkatra', cursive;
+}
+
+.alertSize{
+    height:fit-content;
+    background-color:rgb(175, 62, 62);
+    font-family: 'Alkatra', cursive;
+}
+
+li ,p {
+    color: white;
+}
+
+#inTime,#TxtTime{
+    color: black;
+    font-weight:bold ;
+}
+
+#colorBox{
+
+    background-color: yellow;
+   
+
+}

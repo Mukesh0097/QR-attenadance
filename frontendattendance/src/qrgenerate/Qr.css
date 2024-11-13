@@ -1,0 +1,9 @@
+.utility{
+    row-gap: 10px;
+    position: relative;
+}
+
+.formargin{
+    position: absolute;
+    top: 6rem;
+}
